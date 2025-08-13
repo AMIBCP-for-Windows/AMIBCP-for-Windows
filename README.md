@@ -32,7 +32,7 @@ AMIBCP is widely used in the DIY computer-building community for fine-tuning the
 
 ---
 
-![AMIBCP Interface](https://soft4bro.com/assets/cache/images/soft-covers/AMIBCP_850x0_02f.webp)
+![AMIBCP Interface](https://xeonlive.ru/images/materials/instructions/amibcp/1.jpg)
 
 ---
 
