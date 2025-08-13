@@ -18,7 +18,7 @@ To install AMIBCP on your system:
 4. Complete the process and launch AMIBCP from your Start Menu or desktop.  
 5. Use the tool to customize and optimize your motherboard BIOS settings.
 
-[![AMIBCP Setup](https://winraid.level1techs.com/uploads/default/original/3X/c/c/ccb2e81a548b91d64b94fe4e2348d6268399edfc.jpeg)](https://xeonlive.ru/images/materials/instructions/amibcp/logo.jpg)
+[![AMIBCP Setup](https://xeonlive.ru/images/materials/instructions/amibcp/logo.jpg)](https://xeonlive.ru/images/materials/instructions/amibcp/logo.jpg)
 
 ---
 
